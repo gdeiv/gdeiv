@@ -25,8 +25,8 @@ int main() {
 Highlights:
 
 <div align="center">
-  <a align="center" href="https://github.com/gdeiv/kebax" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=kebax&show_icons=true"/></a>
-  <a align="center" href="https://github.com/gdeiv/botty" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=botty&show_icons=true"/></a>
+  <a align="center" href="https://github.com/gdeiv/kebax" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdeiv&repo=kebax&show_icons=true"/></a>
+  <a align="center" href="https://github.com/gdeiv/botty" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdeiv&repo=botty&show_icons=true"/></a>
 </div>
 <br/>
 
