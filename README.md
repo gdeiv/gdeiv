@@ -3,16 +3,14 @@
 
 ## Hey there!
 ```c
-#include <stdio.h>
-
 typedef struct {
   char* name;
   char* role;
   char* languages[2];
-} student_t;
+} person_t;
 
 int main() {
-  student_t me = {
+  person_t me = {
     "Davide Guerrazzi",
     "University student",
     { "en_US", "it_IT" }
